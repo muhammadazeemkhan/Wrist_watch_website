@@ -1,0 +1,33 @@
+.footer{
+    background-color: #32ACA7;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+nav{
+    background-color: #32ACA7;
+}
+h1{
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 0;
+}
+h1:hover{
+    color: #32ACA7;
+}
+h5{
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 0;
+    border-bottom: 2px solid #32ACA7;
+}
+h5:hover{
+    color: #32ACA7;
+}
+/* .mobile{
+    height: 70px;
+    width: 50px;
+}    */
